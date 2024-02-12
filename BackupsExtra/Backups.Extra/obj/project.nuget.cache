@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "XjewTOkXVt5MPRQJPu5hZ7ohRXDf2UOkmFMHYdi16fUYRClLcNk5fLLH0G3/lYCcTpWF3go8MbdoWCj28qJJ3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Core i5-8250\\Desktop\\github\\ITMO_OOP\\Lab5\\Backups.Extra\\Backups.Extra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Core i5-8250\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\Core i5-8250\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512",
+    "C:\\Users\\Core i5-8250\\.nuget\\packages\\zio\\0.15.0\\zio.0.15.0.nupkg.sha512",
+    "C:\\Users\\Core i5-8250\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Core i5-8250\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Core i5-8250\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Core i5-8250\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
